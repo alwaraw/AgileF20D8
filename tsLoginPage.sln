@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreGUI", "LoginPage\BookStoreGUI.csproj", "{C1D05564-A868-4CD2-9555-3448555FBB92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreLIB", "UnitTestLoginPage\BookStoreLIB.csproj", "{7D717A99-24EE-4163-B020-D62C223F191E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreDATA", "BookStoreDATA\BookStoreDATA.csproj", "{D09FCE2B-67E7-4803-A7B2-371A73D14540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreTests", "BookStoreTests\BookStoreTests.csproj", "{6D7B7BD6-49ED-4D92-93D3-ECB0DA008348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D05564-A868-4CD2-9555-3448555FBB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D05564-A868-4CD2-9555-3448555FBB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D05564-A868-4CD2-9555-3448555FBB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D05564-A868-4CD2-9555-3448555FBB92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D717A99-24EE-4163-B020-D62C223F191E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D717A99-24EE-4163-B020-D62C223F191E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D717A99-24EE-4163-B020-D62C223F191E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D717A99-24EE-4163-B020-D62C223F191E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09FCE2B-67E7-4803-A7B2-371A73D14540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09FCE2B-67E7-4803-A7B2-371A73D14540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09FCE2B-67E7-4803-A7B2-371A73D14540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09FCE2B-67E7-4803-A7B2-371A73D14540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7B7BD6-49ED-4D92-93D3-ECB0DA008348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7B7BD6-49ED-4D92-93D3-ECB0DA008348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7B7BD6-49ED-4D92-93D3-ECB0DA008348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7B7BD6-49ED-4D92-93D3-ECB0DA008348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73AFEA00-4C7C-4214-A860-EB32E436EF5C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.cspc1.uwindsor.ca/comp-4220-1-r-2020f
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LoginPage\\BookStoreGUI.csproj
+		SccProjectName1 = LoginPage
+		SccLocalPath1 = LoginPage
+		SccProjectUniqueName2 = UnitTestLoginPage\\BookStoreLIB.csproj
+		SccProjectName2 = UnitTestLoginPage
+		SccLocalPath2 = UnitTestLoginPage
+		SccProjectUniqueName3 = BookStoreDATA\\BookStoreDATA.csproj
+		SccProjectName3 = BookStoreDATA
+		SccLocalPath3 = BookStoreDATA
+		SccProjectUniqueName4 = BookStoreTests\\BookStoreTests.csproj
+		SccProjectName4 = BookStoreTests
+		SccLocalPath4 = BookStoreTests
+	EndGlobalSection
+EndGlobal
